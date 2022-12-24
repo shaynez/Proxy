@@ -1,6 +1,8 @@
 # vec ssh
 
-DOMAIN-SUFFIX,y.qq.com
-DOMAIN-SUFFIX,gitee.com
+
 DOMAIN-SUFFIX,vps.zyszgo.top
 DOMAIN-SUFFIX,hw.zyszgo.top
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,miui.com
