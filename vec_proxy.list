@@ -13,5 +13,6 @@ DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,winscp.net
 
 DOMAIN-SUFFIX,zlib.knat.network
+DOMAIN-KEYWORD,ipfs
 
 
