@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 
 DOMAIN-KEYWORD,ipfs
 
