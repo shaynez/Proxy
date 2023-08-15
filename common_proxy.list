@@ -10,5 +10,10 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
+DOMAIN-SUFFIX,indeed.com
+
+
+
+#KEYWORD
 DOMAIN-KEYWORD,ipfs
 
